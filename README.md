@@ -1,7 +1,8 @@
 # Skin Disease Image Classifier
 
 This project uses **TensorFlow/Keras** to classify images of skin into different categories such as Acne, Dry Skin, Wrinkles, and more. It can handle single image predictions or batch predictions from a dataset.
-
+## Dataset source : 
+https://universe.roboflow.com/parin-kittipongdaja-vwmn3/skin-problem-multilabel/dataset/1 
 ## Features
 
 * Classifies multiple skin problems from images.

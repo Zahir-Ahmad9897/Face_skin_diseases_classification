@@ -4,7 +4,8 @@ This project uses **TensorFlow/Keras** to classify images of skin into different
 ## Dataset source : 
 https://universe.roboflow.com/parin-kittipongdaja-vwmn3/skin-problem-multilabel/dataset/1 
 ## Features
-
+*Handles imbalanced datasets with smart data augmentation.
+*Performs EDA (Exploratory Data Analysis) to understand class distributions.
 * Classifies multiple skin problems from images.
 * Uses **MobileNet** as the base model with a custom head.
 * Includes data preprocessing, augmentation, and class balancing.
